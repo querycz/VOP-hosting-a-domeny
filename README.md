@@ -12,7 +12,8 @@ a
 
 **Query Digital, s.r.o.**  
 se sídlem: Malá Štupartská 634/7, Praha 1  110 00  
-IČO: 04414284, DIČ: CZ04414284  
+IČO: 04414284
+DIČ: CZ04414284  
 jednající Ing. Jiřím Šebkem, jednatelem  
 (dále také jako „Poskytovatel“)  
 
