@@ -63,7 +63,7 @@ Odběratel bere na vědomí, že pokud překročí kapacita dat objednanou kapac
 
 Veškeré změny u domény musí být korektně autorizovány Odběratelem.
 
-Poskytovatel se zavazuje, že jako kontakt majitele doménového jména uvede kontaktní údaje Odběratele. Odběratel zároveň uvede své kontaktní údaje jako údaje technického kontaktu doménového jména.
+Poskytovatel se zavazuje, že jako kontakt majitele doménového jména uvede kontaktní údaje Odběratele. Poskytovtel uvede své kontaktní údaje jako údaje technického kontaktu doménového jména.
 
 Odběratel je plně odpovědný za to, jakým způsobem jsou jeho domény využívány a jaké webové služby a další služby jsou na nich provozovány.
 
