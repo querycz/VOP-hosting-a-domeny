@@ -63,6 +63,8 @@ Odběratel bere na vědomí, že pokud překročí kapacita dat objednanou kapac
 
 Veškeré změny u domény musí být korektně autorizovány Odběratelem.
 
+Poskytovatel se zavazuje, že jako kontakt majitele doménového jména uvede kontaktní údaje Odběratele. Odběratel zároveň uvede své kontaktní údaje jako údaje technického kontaktu doménového jména.
+
 Odběratel je plně odpovědný za to, jakým způsobem jsou jeho domény využívány a jaké webové služby a další služby jsou na nich provozovány.
 
 V případě soudního či jiného obdobného sporu o doménové jméno může Poskytovatel na základě soudního příkazu či rozhodnutí obdobné povahy znemožnit Odběrateli užívání doménového jména či provést nařízené změny. V případě nařízené změny držitele na jinou osobu nemá Odběratel nárok na vrácení jakýchkoliv poplatků za nevyužití období platnosti domény. Stejně tak nemá Odběratel nárok na kompenzaci jakýchkoliv případných škod způsobených omezením užívání doménového jména či nařízených změn u doménového jména.
