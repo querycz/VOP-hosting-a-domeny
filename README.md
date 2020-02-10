@@ -1,4 +1,4 @@
-# Všeobecné obchodní podmínky pro poskytování hostingových služeb a správy doménových jmen
+# Všeobecné obchodní podmínky pro poskytování hostingových služeb a správy doménových jmen 📄
 
 *Tyto Všeobecné obchodní podmínky upravují smluvní vztah mezi Poskytovatelem a Odběratelem při poskytování hostingových služeb a správy doménových jmen a řídí se ustanovením Zákona č. 89/2012 Sb., Občanský zákoník a navazujících předpisů.*
 
