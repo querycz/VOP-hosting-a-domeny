@@ -2,7 +2,8 @@
 
 *Tyto Všeobecné obchodní podmínky upravují smluvní vztah mezi Poskytovatelem a Odběratelem při poskytování hostingových služeb a správy doménových jmen a řídí se ustanovením Zákona č. 89/2012 Sb., Občanský zákoník a navazujících předpisů.*
 
-Tyto obchodní podmínky jsou platné a účinné od 25. 5. 2018.
+Tyto obchodní podmínky jsou platné a účinné od 25. 5. 2018.  
+Aktualizace podmínek viz https://github.com/querycz/vop-hosting-domeny/commits/master/README.md.
 
 ## Smluvní strany:
 
